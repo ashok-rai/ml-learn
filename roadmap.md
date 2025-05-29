@@ -13,10 +13,10 @@ This roadmap provides a structured, fast-paced learning journey through machine 
 4. **Push your work**: Commit your progress and update your learning diary
 
 ## DAY 0: Setup (1-2 hours)
-- [ ] Install Python 3.11, VS Code/Jupyter, create GitHub account
-- [ ] Create repository "21-Day-ML-Sprint"
-- [ ] Set up virtual environment and install requirements
-- [ ] Create learning-diary.md for daily reflections
+- [X] Install Python 3.11, VS Code/Jupyter, create GitHub account
+- [X] Create repository "ml-learn"
+- [x] Set up virtual environment and install requirements
+- [X] Create learning-diary-day0.md for daily reflections
 
 ## FOUNDATIONS WEEK (Days 1-7)
 *Goal: Build a solid Python + math foundation with daily mini-projects*
